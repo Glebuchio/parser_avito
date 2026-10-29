@@ -1,13 +1,14 @@
 [avito]
-tg_token = ""
-tg_chat_id = []
+tg_token = "9115151227:AAFeWQ4ikoLoy9D4qHeoJfQYWC2hUNkr5xc"
+tg_chat_id = [-1004208908862]
 vk_token = ""
 vk_user_id = []
 urls = [
-    "https://www.avito.ru/all/gruzoviki_i_spetstehnika/buldozery-ASgBAgICAURU3E0?cd=1",
-    "https://www.avito.ru/krasnodar/telefony/mobilnye_telefony/apple/iphone_16-ASgBAgICA0SywA3GsYwVtMANzqs5sMENiPw3?cd=1",
+    "https://www.avito.ru/rss/permskiy_kray/igry_pristavki_i_programmy/igry_pristavki_i_programmy/igrovye_pristavki_i_aksessuary/igrovye_pristavki?q=playstation&s=104",
+    "https://www.avito.ru/rss/permskiy_kray/igry_pristavki_i_programmy/igrovye_pristavki_i_aksessuary?q=nintendo&s=104",
+    "https://www.avito.ru/rss/permskiy_kray/igry_pristavki_i_programmy/igry_pristavki_i_programmy/igrovye_pristavki_i_aksessuary/igrovye_pristavki?q=xbox&s=104"
 ]
-count = 1
+count = 10
 keys_word_white_list = []
 keys_word_black_list = []
 seller_black_list = []
@@ -16,8 +17,8 @@ min_price = 0
 geo = ""
 proxy_string = ""
 proxy_change_url = ""
-pause_general = 1
-pause_between_links = 1
+pause_general = 10
+pause_between_links = 2
 max_age = 0
 max_count_of_retry = 5
 ignore_reserv = true
