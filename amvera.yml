@@ -1,6 +1,8 @@
 meta:
   environment: python
   tool: pip
+
 run:
   command: python AvitoParser.py -b
   singleton: true
+
